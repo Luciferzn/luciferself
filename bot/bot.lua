@@ -62,12 +62,12 @@ end
 function create_self( )
   self = {
     names = {
-    "solid",
-    "سلید",
-    "سولید",
-    "سعید",
-    "saeed",
-    "saeid"
+    "ایمان",
+    "iman",
+    "Lucifer",
+    "lucifer",
+    "لوسیفر",
+    "Iman"
     },
     answers = {
     "وات؟ :/",
