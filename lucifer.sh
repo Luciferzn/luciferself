@@ -51,17 +51,10 @@ if [ ! -f ./tg/tgcli ]; then
  fi
 
 
-   print_logo
-   echo -e "\033[38;5;208m"
-   echo -e "     >>>>                       Fuck u                             "
-   echo -e "     >>>>                       Fuck u again                            "
-   echo -e "     >>>>                       Bazm Fuck u                                   "
-   echo -e "     >>>>                       :||||||                             "
-   echo -e "     >>>>                       @Sharmind                                     "
-   echo -e "\033[0;00m"
+     echo -e "\033[0;00m"
    echo -e "\e[36m"
    logo_play
    #sudo service redis-server restart
    #./tg/tgcli -s ./bot/bot.lua -l 1 -E $@
    ./tg/tgcli -s ./bot/bot.lua $@
- fi
+fi
