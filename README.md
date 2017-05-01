@@ -29,7 +29,7 @@ chmod +x beyond.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/luciferzn/luciferself.git && cd luciferself && chmod +x beyond.sh && ./lucifer.sh install && ./lucifer.sh
+cd $HOME && git clone https://github.com/luciferzn/luciferself.git && cd luciferself && chmod +x lucifer.sh && ./lucifer.sh install && ./lucifer.sh
 ```
 
 * * *
