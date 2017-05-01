@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/Self-BotV2
+cd $HOME/luciferself
 
 install() {
 	    cd tg
@@ -65,3 +65,4 @@ if [ ! -f ./tg/tgcli ]; then
    #./tg/tgcli -s ./bot/bot.lua -l 1 -E $@
    ./tg/tgcli -s ./bot/bot.lua $@
 fi
+end
