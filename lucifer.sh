@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/Self-BotV2
+cd $HOME/luciferself
 
 install() {
 	    cd tg
